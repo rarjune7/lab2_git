@@ -4,7 +4,8 @@ Lab 2, git and github in VS code
 Sep 6
 """
 
-print("Welcome to Git commands ")
+username = input("Enter a username: ")
+print(f"Welcome to Git commands {username}")
 
 
 
